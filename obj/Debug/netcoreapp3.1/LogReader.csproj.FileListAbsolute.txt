@@ -1,0 +1,14 @@
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.exe
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.deps.json
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.runtimeconfig.json
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.runtimeconfig.dev.json
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.dll
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\bin\Debug\netcoreapp3.1\LogReader.pdb
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.csproj.AssemblyReference.cache
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.AssemblyInfoInputs.cache
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.AssemblyInfo.cs
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.dll
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.pdb
+C:\Users\ak\Documents\Visual Studio 2019\Projects\LogReader\obj\Debug\netcoreapp3.1\LogReader.genruntimeconfig.cache
